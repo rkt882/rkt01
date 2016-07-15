@@ -1,11 +1,11 @@
 public class Ryu {
 	public static void main(String[] args) {
-		System.out.println("ÇÏÀÌ¿ë");
-		System.out.println("¤¾¤¾");
+		System.out.println("Ã‡ÄŽÅ”ÄšÅ¼Ã«");
+		System.out.println("Â¤Å¾Â¤Å¾");
 		System.out.println("kk");
 		System.out.println("kadssadads");
 		System.out.println("kadssadads");
-		
+		System.out.println("hello");
 	}
 
 }
