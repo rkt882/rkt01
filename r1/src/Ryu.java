@@ -4,6 +4,7 @@ public class Ryu {
 		System.out.println("¤¾¤¾");
 		System.out.println("kk");
 		System.out.println("kadssadads");
+		System.out.println("kadssadads");
 		
 	}
 
