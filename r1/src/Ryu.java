@@ -3,6 +3,7 @@ public class Ryu {
 		System.out.println("ÇÏÀÌ¿ë");
 		System.out.println("¤¾¤¾");
 		System.out.println("kk");
+		System.out.println("kadssadads");
 		
 	}
 
