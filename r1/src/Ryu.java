@@ -1,7 +1,7 @@
 public class Ryu {
 	public static void main(String[] args) {
-		System.out.println("Ryu");
-		System.out.println("Ryu1");
+		System.out.println("ÇÏÀÌ¿ë");
+		System.out.println("¤¾¤¾");
 	}
 
 }
